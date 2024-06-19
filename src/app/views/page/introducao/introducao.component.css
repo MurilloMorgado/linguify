@@ -1,0 +1,29 @@
+.container{
+  display: flex;
+  align-items: center;
+
+  height: 100%;
+}
+
+.texto_baixar{
+  width: 40%;
+}
+
+.texto_{
+}
+
+
+h1{
+  font-size: 48px;
+  
+}
+
+.img_{
+   width: 60%;
+   display: flex;
+   justify-content: end;
+}
+
+img {
+  width: 360px;
+}

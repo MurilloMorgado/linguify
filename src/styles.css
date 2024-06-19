@@ -1,7 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
-/* Order */
+
 @import "reset.css";
 @import "primeng/resources/themes/lara-light-blue/theme.css";
 @import "primeng/resources/primeng.css";
 
 
+/* Font*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
+
+body {
+  font-family: 'Source Serif 4', serif;
+}
