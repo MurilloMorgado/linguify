@@ -1,0 +1,42 @@
+footer{
+  height: 100%;
+  width: 100%;
+
+}
+
+.container{
+  justify-content: space-between;
+}
+
+.footer-sobre{
+  max-width: 400px;
+  min-width: 200px;
+
+  h2{
+    font-size: 25px;
+    font-weight: bolder;
+  }
+
+  p{
+    font-size: 18px;
+  }
+}
+
+.footer-media{
+  justify-content: center;
+  align-items: center;
+  padding: 20PX;
+
+  border-bottom: solid 1px ;
+
+
+  img{
+    width: 42px;
+    padding: 0px 5px;
+  }
+
+  .footer-logo{
+    font-size: 34px;
+    font-weight: 600;
+  }
+}

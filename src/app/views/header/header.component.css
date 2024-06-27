@@ -15,7 +15,15 @@ header {
   border-radius: 5px;
 }
 
-.card {
-  
- 
+::ng-deep.p-menubar{
+  background: none;
+  border: none;
+  padding: 0px;
+  margin: 0px;
 }
+
+::ng-deep.p-menubar a:hover{
+  /* background-color: #060B27; */
+  
+}
+
