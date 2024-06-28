@@ -21,7 +21,7 @@ main{
 }
 
 footer{
-  height: 25vh;
+  /* height: 25vh; */
   width: 80vw;
-  border: solid 1px rgb(25, 0, 255);
+  /* border: solid 1px rgb(25, 0, 255); */
 }
